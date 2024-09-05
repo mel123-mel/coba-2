@@ -2,3 +2,5 @@
 
 info bisa buat repo
 nama saya melisa
+
+makanan kesukaan saya bakso
